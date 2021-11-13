@@ -1,6 +1,6 @@
 # Relatório Descritivo do *Goodreads' Best Books Ever*
 
-Trabalho Prático 1 da disciplina de Ciência de Dados - UFC 2021.1 feito no [Google Colab](https://research.google.com/colaboratory/faq.html). Colocamos em um repositório para facilitar o acesso e a correção.
+Trabalho Prático 1 da disciplina de Ciência de Dados, semestre 2021.1, Pós-Graduação em Ciência da Computação (MDCC/UFC), feito no [Google Colab](https://research.google.com/colaboratory/faq.html). Colocamos em um repositório para facilitar o acesso e a correção.
 
 ## Crie seu *environment*
 
