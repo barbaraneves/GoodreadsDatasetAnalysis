@@ -1,6 +1,6 @@
 # Relatório Descritivo do *Goodreads' Best Books Ever*
 
-Trabalho Prático 1 da disciplina de Ciência de Dados, semestre 2021.1, Pós-Graduação em Ciência da Computação (MDCC/UFC), feito no [Google Colab](https://research.google.com/colaboratory/faq.html). Colocamos em um repositório para facilitar o acesso e a correção.
+Trabalho Prático 1 da disciplina de Ciência de Dados - UFC 2021.1, feito no [Google Colab](https://research.google.com/colaboratory/faq.html). Colocamos em um repositório para facilitar o acesso e a correção.
 
 ## Crie seu *environment*
 
@@ -33,4 +33,5 @@ O *dataset* utilizado está disponível [nesta página do Kaggle](https://www.ka
 
 ## Autores
 
-- Bárbara Neves, Lucas Benjamim, Samir Braga e Vinicius Bernardo.
+- Alunos de Pós-Graduação em Ciência da Computação (MDCC/UFC): Bárbara Neves, Lucas Benjamim e Samir Braga; e,
+- Aluno de Graduação em Ciência da Computação: Vinicius Bernardo.
